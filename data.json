@@ -1,0 +1,11 @@
+{
+    "python": {
+        "total_minutes": 100,
+        "daily_minutes": 34,
+        "deadline": "2025-05-01",
+        "completed_minutes": 0,
+        "type": "Weekly",
+        "completed": false,
+        "created": "2025-04-15"
+    }
+}
